@@ -14,3 +14,6 @@ i'm an iOS Developer, University student and a musician.
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=YSBoomOfficial.visitor-badge&right_color=red)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YSBoomOfficial&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
