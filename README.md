@@ -1,7 +1,7 @@
 ### Introduction
 Hi, I'm Yash 👋 
 
-i'm an iOS Developer, University student and a musician.
+I am a Visually Impaired iOS Developer, University student and a musician.
 
 ### More about me
 - 🔭 I’m currently a Final Year Undergraduate French and Linguistics student at Queen Mary University of London
