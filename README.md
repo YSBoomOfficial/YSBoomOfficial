@@ -4,7 +4,7 @@ Hi, I'm Yash 👋
 i'm an iOS Developer, University student and a musician.
 
 ### More about me
-- 🔭 I’m currently an Undergraduate French and Linguistics student at Queen Mary University of London
+- 🔭 I’m currently a Final Year Undergraduate French and Linguistics student at Queen Mary University of London
 - 🌱 I’m currently a iOS developer and general Swift lover (I mostly use SwiftUI)
 - 👨🏻‍🦳 Pronouns: He/Him
 - 👀 fun fact: when I'm not coding, I usually produce, sing, write songs and audio engineer in my free time
