@@ -8,10 +8,10 @@ i'm an iOS Developer, University student and a musician.
 - 🌱 I’m currently a iOS developer and general Swift lover (I mostly use SwiftUI)
 - 👨🏻‍🦳 Pronouns: He/Him
 - 👀 fun fact: when I'm not coding, I usually produce, sing, write songs and audio engineer in my free time
+- 🔎 <a href="https://linktr.ee/YSBoomOfficial"> All My Socials</a>
 
 ### My Github Stats
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=YSBoomOfficial.visitor-badge&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=YSBoomOfficial&right_color=red)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YSBoomOfficial&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
