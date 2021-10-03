@@ -13,7 +13,9 @@ I am a Visually Impaired iOS Developer, University student and a musician.
 ### My Github Stats
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YSBoomOfficial&right_color=red)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YSBoomOfficial&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSBoomOfficial&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSBoomOfficial&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ```text
