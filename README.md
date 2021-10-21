@@ -16,10 +16,3 @@ I am a Visually Impaired iOS Developer, University student and a musician.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSBoomOfficial&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSBoomOfficial&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
