@@ -7,7 +7,7 @@ I am a Visually Impaired iOS Developer.
 ### More about me
 - 👨🏼‍💻 Love coding in Swift and working with SwiftUI
 - 🎧 When I'm not coding, I'm usually writing songs, singing, producing or audio engineering (or probably gaming)
-- 🔎 [All My Socials](https://linktr.ee/YSBoomOfficial)
+- 🔎 [All My Links](https://linktr.ee/YSBoomOfficial)
 
 
 ### My Github Stats
