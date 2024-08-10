@@ -3,7 +3,7 @@
 ## A little about me
 
 - 👀 I'm Visually Impaired
-- 👨🏼‍💻 I'm a Graduate Software Engineer at xDesign.
+- 👨🏼‍💻 I'm a Software Engineer at CreateFuture.
 - 🔨 I love working with Swift and SwiftUI.
 - 🔎 You can find my links here 👉🏻 [All My Links](https://linktr.ee/YSBoomOfficial)
 
